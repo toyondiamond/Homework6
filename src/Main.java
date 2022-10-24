@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //task1
+        //task1 homework6
         int clientOS = 0;
         int clientAndroid = 1;
         if (clientOS == 1) {
